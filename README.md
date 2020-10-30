@@ -14,5 +14,8 @@ Budget tracker application updated for both online and offline functionality and
 ## Repo Link
 https://github.com/suwanaloet/Budget-Tracker2
 
+## Old Repo link for commits
+https://github.com/suwanaloet/Budget-Tracker
+
 ## Deployment link
 https://damp-beach-64004.herokuapp.com/
